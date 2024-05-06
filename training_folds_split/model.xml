@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<model>
+    <model-type>Registration</model-type>
+    <dimension>3</dimension>
+<!--    <initial-control-points>/Users/junjiezhao/unc/Classes/COMP790/code/new_code/my_ctrl_pts.txt</initial-control-points>-->
+    <initial-control-points>/home/junjiez1/projects/classes/COMP790/code/new_code/my_ctrl_pts.txt</initial-control-points>
+    <template>
+        <object id="hippo">
+            <deformable-object-type>SurfaceMesh</deformable-object-type>
+            <attachment-type>Varifold</attachment-type>
+            <!-- try varying this, affects overfitting -->
+            <noise-std>0.1</noise-std>
+            <kernel-type>torch</kernel-type>
+<!--            <kernel-device>cpu</kernel-device>-->
+            <kernel-width>2.7</kernel-width>
+<!--            <filename>/Users/junjiezhao/unc/Classes/COMP790/code/mean_obj/my_mean_obj.vtk</filename>-->
+            <filename>/home/junjiez1/projects/classes/COMP790/code/mean_obj/my_mean_obj.vtk</filename>
+        </object>
+    </template>
+    <deformation-parameters>
+        <kernel-width>2.7</kernel-width>
+        <kernel-type>torch</kernel-type>
+<!--        <kernel-device>cpu</kernel-device>-->
+    </deformation-parameters>
+</model>

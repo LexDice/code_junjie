@@ -1,0 +1,888 @@
+<?xml version="1.0" ?>
+<data-set>
+	<subject id="841812">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_841812_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="784198">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_784198_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="138494">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_138494_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="552855">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_552855_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="988903">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_988903_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="271626">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_271626_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="751794">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_751794_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="364612">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_364612_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="589344">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_589344_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="996243">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_996243_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="919979">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_919979_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="553295">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_553295_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="389521">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_389521_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="443584">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_443584_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="456823">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_456823_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="973338">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_973338_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="479010">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_479010_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="638999">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_638999_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="929204">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_929204_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="569748">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_569748_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="402809">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_402809_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="490878">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_490878_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="270129">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_270129_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="172993">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_172993_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="857317">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_857317_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="812857">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_812857_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="930203">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_930203_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="336576">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_336576_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="321541">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_321541_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="703249">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_703249_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="809318">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_809318_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="107524">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_107524_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="950194">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_950194_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="526558">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/pos_vtk/stx_noscale_526558_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="830319">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_830319_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="141335">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_141335_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="807284">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_807284_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="341870">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_341870_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="480564">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_480564_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="214027">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_214027_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="773722">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_773722_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="876501">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_876501_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="931845">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_931845_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="229758">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_229758_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="247315">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_247315_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="220629">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_220629_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="482642">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_482642_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="898932">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_898932_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="476634">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_476634_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="981407">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_981407_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="931663">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_931663_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="221751">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_221751_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="376852">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_376852_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="879873">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_879873_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="243336">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_243336_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="327961">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_327961_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="751872">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_751872_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="604440">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_604440_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="560969">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_560969_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="729108">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_729108_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="650503">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_650503_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="237123">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_237123_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="189601">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_189601_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="709530">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_709530_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="323421">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_323421_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="301941">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_301941_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="813472">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_813472_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="525057">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_525057_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="845807">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_845807_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="822168">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_822168_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="229701">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_229701_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="859112">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_859112_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="792210">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_792210_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="595729">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_595729_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="550654">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_550654_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="513330">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_513330_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="404956">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_404956_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="972585">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_972585_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="677040">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_677040_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="130523">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_130523_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="216279">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_216279_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="501347">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_501347_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="659752">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_659752_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="428973">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_428973_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="436524">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_436524_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="927475">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_927475_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="865528">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_865528_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="798424">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_798424_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="525281">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_525281_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="328818">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_328818_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="251040">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_251040_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="755309">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_755309_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="895096">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_895096_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="833557">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_833557_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="131614">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_131614_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="420719">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_420719_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="868632">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_868632_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="183970">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_183970_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="540777">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_540777_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="494479">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_494479_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="618875">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_618875_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="364850">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_364850_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="222770">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_222770_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="703739">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_703739_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="786888">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_786888_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="347302">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_347302_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="995004">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_995004_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="185404">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_185404_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="633804">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_633804_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="763676">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_763676_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="224012">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_224012_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="967950">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_967950_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="908962">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_908962_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="684945">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_684945_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="924851">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_924851_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="232791">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_232791_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="225196">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_225196_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="337032">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_337032_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="843372">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_843372_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="992063">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_992063_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="569453">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_569453_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="831855">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_831855_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="583392">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_583392_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="974562">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_974562_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="950017">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_950017_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="549587">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_549587_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="751081">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_751081_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="280066">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_280066_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="339961">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_339961_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="691501">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_691501_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="710239">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_710239_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="942335">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_942335_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="167672">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_167672_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="210295">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_210295_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="841306">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_841306_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="623831">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_623831_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="636817">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_636817_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="360222">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_360222_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="220416">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_220416_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="197959">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_197959_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="519668">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_519668_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="511104">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_511104_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="145656">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_145656_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="660372">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_660372_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="675255">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_675255_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="580421">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_580421_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="239554">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_239554_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="961753">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_961753_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="658909">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_658909_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="713824">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_713824_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="223443">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_223443_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="204948">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_204948_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="324373">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_324373_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="783552">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_783552_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="481457">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_481457_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="118969">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_118969_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="505608">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_505608_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="641247">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_641247_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="755016">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_755016_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="621892">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_621892_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="548690">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_548690_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="870658">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_870658_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="103430">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_103430_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="516442">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_516442_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="385291">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_385291_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="215951">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_215951_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="859030">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_859030_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="315752">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_315752_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="471870">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_471870_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="176050">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_176050_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="136846">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_136846_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="974849">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_974849_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="963368">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_963368_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="600902">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_600902_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="216938">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_216938_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="570210">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_570210_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="190090">
+		<visit id="experiment">
+			<filename object_id="hippo">/Users/junjiezhao/unc/Classes/COMP790/hippo/neg_vtk/stx_noscale_190090_V06_t1w_RAI_Bias_label_pp_surf_tMeanSPHARM_procalign.vtk</filename>
+		</visit>
+	</subject>
+</data-set>

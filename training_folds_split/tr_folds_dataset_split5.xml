@@ -1,0 +1,628 @@
+<?xml version="1.0" ?>
+<data-set>
+	<subject id="fold625">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold625_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold626">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold626_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold627">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold627_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold628">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold628_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold629">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold629_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold630">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold630_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold631">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold631_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold632">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold632_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold633">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold633_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold634">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold634_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold635">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold635_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold636">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold636_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold637">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold637_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold638">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold638_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold639">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold639_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold640">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold640_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold641">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold641_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold642">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold642_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold643">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold643_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold644">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold644_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold645">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold645_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold646">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold646_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold647">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold647_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold648">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold648_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold649">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold649_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold650">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold650_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold651">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold651_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold652">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold652_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold653">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold653_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold654">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold654_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold655">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold655_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold656">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold656_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold657">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold657_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold658">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold658_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold659">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold659_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold660">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold660_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold661">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold661_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold662">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold662_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold663">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold663_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold664">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold664_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold665">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold665_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold666">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold666_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold667">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold667_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold668">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold668_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold669">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold669_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold670">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold670_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold671">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold671_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold672">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold672_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold673">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold673_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold674">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold674_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold675">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold675_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold676">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold676_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold677">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold677_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold678">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold678_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold679">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold679_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold680">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold680_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold681">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold681_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold682">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold682_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold683">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold683_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold684">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold684_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold685">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold685_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold686">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold686_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold687">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold687_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold688">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold688_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold689">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold689_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold690">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold690_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold691">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold691_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold692">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold692_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold693">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold693_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold694">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold694_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold695">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold695_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold696">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold696_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold697">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold697_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold698">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold698_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold699">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold699_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold700">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold700_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold701">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold701_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold702">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold702_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold703">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold703_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold704">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold704_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold705">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold705_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold706">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold706_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold707">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold707_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold708">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold708_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold709">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold709_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold710">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold710_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold711">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold711_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold712">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold712_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold713">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold713_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold714">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold714_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold715">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold715_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold716">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold716_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold717">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold717_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold718">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold718_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold719">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold719_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold720">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold720_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold721">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold721_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold722">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold722_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold723">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold723_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold724">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold724_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold725">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold725_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold726">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold726_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold727">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold727_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold728">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold728_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold729">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold729_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold730">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold730_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold731">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold731_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold732">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold732_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold733">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold733_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold734">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold734_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold735">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold735_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold736">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold736_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold737">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold737_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold738">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold738_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold739">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold739_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold740">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold740_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold741">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold741_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold742">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold742_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold743">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold743_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold744">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold744_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold745">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold745_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold746">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold746_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold747">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold747_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold748">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold748_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+	<subject id="fold749">
+		<visit id="experiment">
+			<filename object_id="hippo">/home/junjiez1/projects/classes/COMP790/code/new_code/training_folds_split/training_folders_vtks/fold749_mean_obj.vtk</filename>
+		</visit>
+	</subject>
+</data-set>
